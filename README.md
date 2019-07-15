@@ -1,27 +1,24 @@
-##### Nuno Santos: Fronten-end
+# Search Text
 
-| 
-
-[GitHub](https://github.com/nunosantoswebdesigner/)<br>
-[GitHub-Pages](https://nunosantoswebdesigner.github.io/)<br>
-
-
- - Falta  <br>
-[] -   <br>
-[] -   <br>
-<br>
+Links do Projecto:  
+[Demo](https://nunosantoswebdesigner.github.io/searchtext)
+[Repo](https://github.com/nunosantoswebdesigner/searchtext)
 
 
- - html-file  <br>
-[] -   <br>
+![home](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/searchtext_1.png)
+![home](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/searchtext_2.png)
+![home](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/searchtext_3.png)
 
 
- - css-file  <br>
-[] -  <br>
+## License
+This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
+
+## Misc
+
+Follow Me at:      
+[Facebook](http://www.facebook.com/nunosantoswebdesigner),     
+[GitHub](https://github.com/nunosantoswebdesigner),     
+[Instagram](https://www.instagram.com/nunosantos_webdesigner)     
 
 
- - js-file  <br>
-[] -   <br>
-
-
-[© Nuno Santos 2019](http://www.nunosantos.ml)<br>
+[© Nuno Santos 2019](https://www.instagram.com/nunosantos_webdesigner)
